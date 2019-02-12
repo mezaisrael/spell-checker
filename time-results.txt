@@ -1,0 +1,2 @@
+hash time: 1
+AVL time: 4
